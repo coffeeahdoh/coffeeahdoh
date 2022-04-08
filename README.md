@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coffeeahdoh
-- 👀 My superpowers rely on exp. in healthcare and learning about our microbial frenemies
-- 🌱 Reaching lvl 99 in SQL, Tableau, Python, & R are my goals.
+- 👀 My superpowers rely on exp. gained from healthcare and AP gained from learning about our microbial frenemies
+- 🌱 Working towards leveling up in SQL, Tableau, Python, & R
 
 <!---
 coffeeahdoh/coffeeahdoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
